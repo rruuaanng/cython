@@ -430,4 +430,3 @@ cdef extern from "Python.h":
     long Py_TPFLAGS_DEFAULT_EXTERNAL
     long Py_TPFLAGS_DEFAULT_CORE
     long Py_TPFLAGS_DEFAULT
-    long Py_TPFLAGS_HAVE_FINALIZE

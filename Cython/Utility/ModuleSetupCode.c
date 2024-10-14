@@ -740,9 +740,6 @@ class __Pyx_FakeReference {
 #ifndef Py_TPFLAGS_HAVE_NEWBUFFER
   #define Py_TPFLAGS_HAVE_NEWBUFFER 0
 #endif
-#ifndef Py_TPFLAGS_HAVE_FINALIZE
-  #define Py_TPFLAGS_HAVE_FINALIZE 0
-#endif
 #ifndef Py_TPFLAGS_SEQUENCE
   #define Py_TPFLAGS_SEQUENCE 0
 #endif
